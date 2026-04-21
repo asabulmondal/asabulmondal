@@ -1,39 +1,20 @@
 # Asabul Hossain Mondal
+**B.Com (Hons) Student | Accounting & Taxation Enthusiast**
 
-B.Com (Hons) Student | Accounting & Taxation Enthusiast  
-Focused on Financial Accounting, Tally Prime, GST, and Microsoft Excel
+### About Me
+I am Asabul Hossain Mondal, a B.Com (Hons) student at Memari College focusing on accounting, taxation, and financial systems. Alongside my commerce studies, I explore how technology can streamline workflows. While I am not a developer, I actively use AI tools to generate scripts and automations to ease my work, and I rely on GitHub for version control of those codes and to host my digital portfolio.
 
----
+### 💼 Core Focus & Tools
+* **Commerce:** Financial Accounting, Tally Prime, GST, Microsoft Excel
+* **Tech Utilities:** AI-Assisted Scripting, Basic Automations, Version Control (Git/GitHub)
 
-## About Me
-I am Asabul Hossain Mondal, a B.Com (Hons) student with a strong interest in accounting, taxation, and financial systems. I am continuously learning and building practical skills in accounting software and financial tools.
-
----
-
-## Skills
-- Financial Accounting  
-- Tally Prime  
-- GST (Basics)  
-- Microsoft Excel
-
----
-
-## Education
-**B.Com (Hons)**  
+### 🎓 Education
+**B.Com (Hons)**
 Memari College (2024 - Present)
 
----
+### 🔗 Connect with me
+* **Website / Portfolio:** https://asabulmondal.github.io
+* **LinkedIn:** https://linkedin.com/in/asabulmondal
 
-## Connect with me
-- Website: https://asabulmondal.github.io  
-- LinkedIn: https://linkedin.com/in/asabulmondal  
-- GitHub: https://github.com/asabulmondal  
-- Instagram: https://instagram.com/asabul.me  
-- Facebook: https://facebook.com/asabul.me 
-- YouTube: https://youtube.com/@AHMondal 
-- X (Twitter): https://x.com/AHMondal25 
-
----
-
-## Goal
-To build strong expertise in accounting and taxation and grow into a professional financial expert.
+### 🎯 Goal
+To build strong expertise in accounting and taxation while leveraging modern AI tools and automations to work more efficiently.
